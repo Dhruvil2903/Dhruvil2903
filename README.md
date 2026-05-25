@@ -133,4 +133,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
